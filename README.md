@@ -1,4 +1,4 @@
-This project is one of the projects in FeeCodeCamp- Scientific Computing with Python Certification course. The README, main.py and test_module.py files are created by Freecodecamp.I am using these to  illustrate why is my code looks like it is. The arritmetic_arrenger.py is my code.
+**This project is one of the projects in FeeCodeCamp- Scientific Computing with Python Certification course. The README, main.py and test_module.py files are created by Freecodecamp.I am using these to  illustrate why is my code looks like it is. The arritmetic_arrenger.py is my code.**
 
 
 ### Assignment
